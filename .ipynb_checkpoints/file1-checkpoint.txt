@@ -3,4 +3,3 @@ The second line
 The third line
 New line
 New New line
-Added line for the assignment 6
